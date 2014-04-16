@@ -18,16 +18,16 @@ In this talk, Ryan and Marlena will share with the audience:
 
 Ryan Dy, formerly of Pivotal Labs, works for [Pacer Pro](https://www.pacerpro.com/) as a web developer and lives in San Francisco. He is a Backbone.js enthusiast, TDD practitioner  and recovering game programmer.
 
-[@rdy](http://twitter.com/rdy)
-[rdy](http://github.com/rdy)
-[PacerPro](https://www.pacerpro.com)
+* Twitter: [@rdy](http://twitter.com/rdy)
+* Github: [rdy](http://github.com/rdy)
+* [PacerPro](https://www.pacerpro.com)
 
 
 ## Marlena's Bio ##
 
 Marlena Compton finds bugs and writes about it on her blog. She is a software tester in San Francisco at sustainability startup, GoodGuide, and is stoked that learning Javascript and front-end web development helps her be a better tester.
 
-[@marlenac](http://twitter.com/marlenac)
-[marlena](http://github.com/Marlena)
-[marlenacompton.com](http://marlenacompton.com)
-[GoodGuide](http://www.goodguide.com)
+* Twitter: [@marlenac](http://twitter.com/marlenac)
+* Github: [marlena](http://github.com/Marlena)
+* Blog: [marlenacompton.com](http://marlenacompton.com)
+* [GoodGuide](http://www.goodguide.com)
